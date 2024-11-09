@@ -68,16 +68,6 @@ Para ejecutar:
 ./nombre_archivo
 ```
 
-## Estructura de Archivos
-```
-.
-├── README.md
-├── sort_dict.hs        # Ejercicio 1
-├── power_list.hs       # Ejercicio 2
-├── matrix_transpose.hs # Ejercicio 3
-└── filter_list.hs      # Ejercicio 4
-```
-
 ## Características Comunes
 - Todos los ejercicios utilizan funciones lambda
 - Implementación funcional y concisa
